@@ -7,3 +7,4 @@
 #         print("Case %d: %d" % (i+1, number))
 #     else:
 #         print("Case %d: Error" % (i+1))
+#         print("Case %d: Error" % (i+1))
